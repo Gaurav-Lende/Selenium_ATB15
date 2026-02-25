@@ -1,4 +1,4 @@
-package Selenium_ATB_15x;
+package Selenium_Basics;
 
 public class Selenium_001 {
 }
