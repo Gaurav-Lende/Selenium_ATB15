@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Gauravlende/IdeaProjects/Selenium_Practice">
+        <classes>
+            <class name="Selenium_Basics.Selenium_009_Assertions_TestNG">
+                <methods>
+                    <include name="test_selenium_001"/>
+                </methods>
+            </class>
+            <class name="Selenium_Basics.Selenium_10_VWO">
+                <methods>
+                    <include name="test_selenium_02"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
